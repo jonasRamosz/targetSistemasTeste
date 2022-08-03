@@ -16,10 +16,10 @@ while t3 <= x:
 print('')
 
 if x in fibo:
-    print(f'O numero informado ({x}) esta presente da sequencia de fibonacci')
+    print(f'O numero informado ({x}) esta presente na sequencia de fibonacci')
 
 else:
-    print(f'O numero informado ({x}) NÃO esta presente da sequencia de fibonacci')
+    print(f'O numero informado ({x}) NÃO esta presente na sequencia de fibonacci')
 
 
 
